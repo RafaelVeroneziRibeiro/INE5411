@@ -31,3 +31,7 @@ To simulate this firmware, you need the **MARS (MIPS Assembler and Runtime Simul
 4. Click **Connect to MIPS** in the Digital Lab Sim window.
 5. Assemble and run the code in MARS.
 6. Use the hexadecimal keyboard to input the time (0-9), press **A** to start, **B** to pause/cancel, and **C** to toggle the microwave door.
+
+##  Authors
+* **Rafael Veronezi Ribeiro**
+* **Gabriel Baggio**
